@@ -1,0 +1,16 @@
+.Albums {
+    width: 25%;
+}
+
+.music-videos {
+    aspect-ratio: 16/9;
+    width: 50%;
+}
+
+.table {
+    display: none;
+    border-collapse: collapse;
+    border-bottom: 1px black;
+    margin: 25px;
+    text-align: left;
+}
