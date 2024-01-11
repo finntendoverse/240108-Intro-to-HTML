@@ -5,5 +5,7 @@ Everything I've created so far
 * A PUP fan
 * A geek
 * A gamer
-  and most relevant to this lesson...
+
+and most relevant to this lesson...
+
 * Someone trying to make more money!
