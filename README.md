@@ -1,11 +1,2 @@
-# Finn's Portfolio
-Everything I've created so far
-
-## Who am I?
-* A PUP fan
-* A geek
-* A gamer
-
-and most relevant to this lesson...
-
-* Someone trying to make more money!
+# PUP Fan Site
+This website helped teach me how to write HTML, as well as use GitHub.
